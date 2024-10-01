@@ -1,0 +1,3 @@
+-First run Admin module for admin login and entry of student information.
+-Run student module for student login and course information.
+-in admin csv admins 1,2,3 are used as usernames and unlock for passwords. Can be changed to anything
